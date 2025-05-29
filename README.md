@@ -1,2 +1,1 @@
-# haos-yahamr
-Yet Another Home Assistant Modules Repo
+# Yet Another Home Assistant Addons Repo
