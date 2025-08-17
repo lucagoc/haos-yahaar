@@ -1,0 +1,18 @@
+name: "Byparr"
+description: "Flarrsolver dropin replacement"
+version: "1.2.1"
+slug: "byparr"
+init: false
+startup: services
+boot: auto
+host_network: true
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+options: {}
+schema: {}
+ports:
+  8191/tcp: 8191
